@@ -24,5 +24,9 @@
     "webpack": "^4",
     "webpack-cli": "^3",
     "webpack-dev-server": "^3"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.2",
+    "react-redux": "^8.0.5"
   }
 }
